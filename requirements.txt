@@ -1,0 +1,15 @@
+Pillow
+chromadb
+fastapi
+langchain
+librosa
+pydantic
+pydub
+pypdfium2
+python-dotenv
+requests
+streamlit
+streamlit-mic-recorder
+torch
+transformers
+uuid
